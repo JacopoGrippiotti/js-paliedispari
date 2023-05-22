@@ -30,6 +30,7 @@ function randomNumber(max,min){
 
 let computerNumber = randomNumber(5,1)
 
+console.log(computerNumber)
 
 let sum = userNumber + computerNumber
 
