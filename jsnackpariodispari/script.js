@@ -51,6 +51,6 @@ if (isSumPariOdispari(sum) === pariOdispari){
     console.log('bravo hai vinto. Hai scelto', pariOdispari,'e il risultato della somma è venuto', isSumPariOdispari(sum))
     console.log(sum)
 }else{
-    console.log('ritenta e sarai più fortunato')
+    console.log('ritenta e sarai più fortunato. Hai scelto', pariOdispari,'e il risultato della somma è venuto', isSumPariOdispari(sum))
     console.log(sum)
 }
